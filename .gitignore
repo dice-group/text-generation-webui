@@ -2,7 +2,11 @@
 /extensions
 /installer_files
 /repositories
-/user_data
+/user_data/models
+/user_data/loras
+/user_data/logs
+*.out
+
 
 .chroma
 .DS_Store
